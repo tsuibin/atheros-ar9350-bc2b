@@ -1,0 +1,4 @@
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_eeprom.c: In function 'ar9300FlashMap':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_eeprom.c:494: warning: assignment makes pointer from integer without a cast
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_eeprom.c: In function 'ar9300EepromRestoreFromFlash':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_eeprom.c:3753: warning: initialization from incompatible pointer type

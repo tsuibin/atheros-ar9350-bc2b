@@ -1,0 +1,2 @@
+fw_update.c: In function 'main':
+fw_update.c:417: warning: passing argument 2 of 'flash_write' makes pointer from integer without a cast

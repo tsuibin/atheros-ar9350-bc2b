@@ -1,0 +1,6 @@
+miscutils/mdmm.c: In function 'opendev':
+miscutils/mdmm.c:84: warning: function declaration isn't a prototype
+miscutils/mdmm.c: At top level:
+miscutils/mdmm.c:97: warning: no previous prototype for 'closedev'
+miscutils/mdmm.c: In function 'md_main':
+miscutils/mdmm.c:108: warning: unused variable 'ret'

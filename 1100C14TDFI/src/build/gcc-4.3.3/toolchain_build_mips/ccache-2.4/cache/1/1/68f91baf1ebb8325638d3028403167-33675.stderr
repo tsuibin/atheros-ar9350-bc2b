@@ -1,0 +1,3 @@
+conftest.c:113: warning: function declaration isn't a prototype
+conftest.c: In function 'main':
+conftest.c:115: warning: unused variable 'xyzzy'

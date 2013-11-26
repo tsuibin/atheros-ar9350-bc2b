@@ -1,0 +1,4 @@
+warc.c: In function 'warc_write_block_from_file':
+warc.c:250: warning: format '%ld' expects type 'long int', but argument 3 has type '__off64_t'
+warc.c: In function 'warc_write_cdx_record':
+warc.c:1238: warning: format '%ld' expects type 'long int', but argument 10 has type 'off_t'

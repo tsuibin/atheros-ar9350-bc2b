@@ -1,0 +1,1 @@
+expr.c:207: warning: conflicting types for built-in function 'exp2'

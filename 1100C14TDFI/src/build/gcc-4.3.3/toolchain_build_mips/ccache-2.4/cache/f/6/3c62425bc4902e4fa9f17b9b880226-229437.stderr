@@ -1,0 +1,4 @@
+miscutils/factoryreset.c: In function 'siginthnd':
+miscutils/factoryreset.c:12: warning: unused parameter 'signo'
+miscutils/factoryreset.c: At top level:
+miscutils/factoryreset.c:20: warning: no previous prototype for 'factoryreset_main'

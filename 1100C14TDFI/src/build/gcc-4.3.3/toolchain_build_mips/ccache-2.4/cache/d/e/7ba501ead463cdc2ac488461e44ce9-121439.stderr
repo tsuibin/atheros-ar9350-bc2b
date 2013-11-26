@@ -1,0 +1,2 @@
+client_test.c: In function 'client':
+client_test.c:34: warning: unused variable 'i'

@@ -1,0 +1,9 @@
+./../lib/isc/result.c: In function 'register_table':
+./../lib/isc/result.c:115: warning: declaration of 'text' shadows a global declaration
+./../lib/isc/result.c:43: warning: shadowed declaration is here
+./../lib/isc/result.c: In function 'isc_result_totext':
+./../lib/isc/result.c:173: warning: declaration of 'text' shadows a global declaration
+./../lib/isc/result.c:43: warning: shadowed declaration is here
+./../lib/isc/result.c: In function 'isc_result_register':
+./../lib/isc/result.c:208: warning: declaration of 'text' shadows a global declaration
+./../lib/isc/result.c:43: warning: shadowed declaration is here

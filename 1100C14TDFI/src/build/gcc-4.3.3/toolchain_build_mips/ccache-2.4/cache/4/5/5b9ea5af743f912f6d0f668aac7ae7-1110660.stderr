@@ -1,0 +1,4 @@
+net/core/skbuff.c: In function 'skb_release_head_state':
+net/core/skbuff.c:701: warning: format '%08x' expects type 'unsigned int', but argument 2 has type 'void *'
+net/core/skbuff.c: In function '__copy_skb_header':
+net/core/skbuff.c:843: warning: passing argument 2 of 'skb_copy_stored_cb' discards qualifiers from pointer target type

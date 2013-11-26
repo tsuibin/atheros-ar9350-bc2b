@@ -1,0 +1,4 @@
+imuxsock.c: In function 'openLogSocket':
+imuxsock.c:373: warning: unused variable 'one'
+imuxsock.c: In function 'readSocket':
+imuxsock.c:659: warning: cast increases required alignment of target type

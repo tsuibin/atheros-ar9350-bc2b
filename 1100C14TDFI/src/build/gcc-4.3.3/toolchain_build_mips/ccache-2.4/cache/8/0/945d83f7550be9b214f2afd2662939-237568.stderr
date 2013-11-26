@@ -1,0 +1,2 @@
+main.c: In function 'print_version':
+main.c:870: warning: unused variable 'locale_title'

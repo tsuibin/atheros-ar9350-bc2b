@@ -1,0 +1,16 @@
+zn_at_parse.c: In function 'setport':
+zn_at_parse.c:80: warning: unused variable 'baudrate'
+zn_at_parse.c: In function 'readport':
+zn_at_parse.c:111: warning: unused variable 'rcnum'
+zn_at_parse.c:111: warning: unused variable 'no'
+zn_at_parse.c: In function 'at_common':
+zn_at_parse.c:182: warning: comparison between signed and unsigned
+zn_at_parse.c: In function 'at_send_common':
+zn_at_parse.c:205: warning: unused parameter 'size'
+zn_at_parse.c: In function 'at_get_connect_info':
+zn_at_parse.c:431: warning: missing initializer
+zn_at_parse.c:431: warning: (near initialization for 'msg.fsm_state')
+zn_at_parse.c: In function 'at_get_ip':
+zn_at_parse.c:479: warning: unused parameter 'ip'
+zn_at_parse.c: In function 'at_get_rssi':
+zn_at_parse.c:544: warning: unused variable 'rssi0'

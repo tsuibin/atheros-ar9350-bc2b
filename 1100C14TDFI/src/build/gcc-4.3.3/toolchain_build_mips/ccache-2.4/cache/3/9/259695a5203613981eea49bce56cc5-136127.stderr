@@ -1,0 +1,2 @@
+zn_lte_gpio.c: In function 'set_lte_led_device':
+zn_lte_gpio.c:50: warning: implicit declaration of function 'ioctl'

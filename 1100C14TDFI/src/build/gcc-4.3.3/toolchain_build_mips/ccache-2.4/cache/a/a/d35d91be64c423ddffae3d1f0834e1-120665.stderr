@@ -1,0 +1,12 @@
+In file included from ag934x.c:17:
+ag934x_phy.h: In function 'ag7240_phy_setup':
+ag934x_phy.h:18: warning: implicit declaration of function 'athrs27_phy_setup'
+ag934x_phy.h: In function 'ag7240_phy_link':
+ag934x_phy.h:47: warning: implicit declaration of function 'athrs27_phy_is_up'
+ag934x_phy.h: In function 'ag7240_phy_duplex':
+ag934x_phy.h:75: warning: implicit declaration of function 'athrs27_phy_is_fdx'
+ag934x_phy.h: In function 'ag7240_phy_speed':
+ag934x_phy.h:103: warning: implicit declaration of function 'athrs27_phy_speed'
+ag934x.c: In function 'ag7240_enet_initialize':
+ag934x.c:716: warning: passing argument 2 of 'miiphy_register' from incompatible pointer type
+ag934x.c:716: warning: passing argument 3 of 'miiphy_register' from incompatible pointer type

@@ -1,0 +1,8 @@
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c: In function 'ath_hal_vprintf':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c:165: warning: incompatible implicit declaration of built-in function 'printf'
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c: In function 'ath_hal_ether_sprintf':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c:186: warning: incompatible implicit declaration of built-in function 'snprintf'
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c: In function 'init_ath_hal':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c:772: warning: incompatible implicit declaration of built-in function 'printf'
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c: In function 'exit_ath_hal':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/nartlinux/ah_osdep_art.c:797: warning: incompatible implicit declaration of built-in function 'printf'

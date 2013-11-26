@@ -1,0 +1,3 @@
+conftest.c:110: warning: function declaration isn't a prototype
+conftest.c: In function 'main':
+conftest.c:112: warning: unused variable 'sin6'

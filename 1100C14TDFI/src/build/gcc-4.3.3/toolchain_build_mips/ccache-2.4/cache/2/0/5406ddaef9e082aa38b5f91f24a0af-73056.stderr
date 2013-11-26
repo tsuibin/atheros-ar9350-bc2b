@@ -1,0 +1,21 @@
+lte_debug.c: In function 'main':
+lte_debug.c:52: warning: passing argument 1 of 'at_get_version' from incompatible pointer type
+lte_debug.c:70: warning: missing braces around initializer
+lte_debug.c:70: warning: (near initialization for 'reset.apn')
+lte_debug.c:70: warning: missing initializer
+lte_debug.c:70: warning: (near initialization for 'reset.ip')
+lte_debug.c:88: warning: missing initializer
+lte_debug.c:88: warning: (near initialization for 'connect_info.network_registration')
+lte_debug.c:89: warning: too few arguments for format
+lte_debug.c:87: warning: unused variable 'reset'
+lte_debug.c:110: warning: missing initializer
+lte_debug.c:110: warning: (near initialization for 'info.srv_domain')
+lte_debug.c:110: warning: unused variable 'info'
+lte_debug.c:131: warning: implicit declaration of function 'at_common'
+lte_debug.c:123: warning: unused variable 'ret'
+lte_debug.c:144: warning: missing initializer
+lte_debug.c:144: warning: (near initialization for 'msg.fsm_state')
+lte_debug.c:157: warning: missing initializer
+lte_debug.c:157: warning: (near initialization for 'msg.fsm_state')
+lte_debug.c:159: warning: implicit declaration of function 'client'
+lte_debug.c:166: warning: too few arguments for format

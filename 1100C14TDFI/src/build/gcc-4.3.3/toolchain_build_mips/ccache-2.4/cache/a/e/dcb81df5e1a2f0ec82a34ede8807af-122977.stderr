@@ -1,0 +1,8 @@
+lte_device_control.c: In function 'get_sys_run_time':
+lte_device_control.c:314: warning: missing initializer
+lte_device_control.c:314: warning: (near initialization for 'info.loads')
+lte_device_control.c: In function 'check_lte_info':
+lte_device_control.c:359: warning: missing initializer
+lte_device_control.c:359: warning: (near initialization for 'connect_info.network_registration')
+lte_device_control.c: In function 'get_time':
+lte_device_control.c:583: warning: 'return' with a value, in function returning void

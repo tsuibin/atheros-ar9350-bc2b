@@ -1,0 +1,6 @@
+./../lib/isc/unix/file.c: In function 'isc_file_getmodtime':
+./../lib/isc/unix/file.c:100: warning: declaration of 'time' shadows a global declaration
+/home/1100C14TDFI/src/build/gcc-4.3.3/build_mips/staging_dir/usr/include/time.h:189: warning: shadowed declaration is here
+./../lib/isc/unix/file.c: In function 'isc_file_settime':
+./../lib/isc/unix/file.c:120: warning: declaration of 'time' shadows a global declaration
+/home/1100C14TDFI/src/build/gcc-4.3.3/build_mips/staging_dir/usr/include/time.h:189: warning: shadowed declaration is here

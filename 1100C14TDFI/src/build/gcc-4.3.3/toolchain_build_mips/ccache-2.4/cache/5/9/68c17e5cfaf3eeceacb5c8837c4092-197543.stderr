@@ -1,0 +1,2 @@
+omruleset.c: In function 'doAction':
+omruleset.c:106: warning: cast increases required alignment of target type

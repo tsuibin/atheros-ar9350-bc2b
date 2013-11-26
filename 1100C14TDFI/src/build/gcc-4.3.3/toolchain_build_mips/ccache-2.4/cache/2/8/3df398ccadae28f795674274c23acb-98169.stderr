@@ -1,0 +1,4 @@
+./../lib/isc/inet_ntop.c:61: warning: no previous prototype for 'isc_net_ntop'
+./../lib/isc/inet_ntop.c: In function 'isc_net_ntop':
+./../lib/isc/inet_ntop.c:157: warning: assuming signed overflow does not occur when simplifying conditional to constant
+./../lib/isc/inet_ntop.c:157: warning: assuming signed overflow does not occur when simplifying conditional to constant

@@ -1,0 +1,4 @@
+nsdpoll_ptcp.c: In function 'addEvent':
+nsdpoll_ptcp.c:78: warning: cast from pointer to integer of different size
+nsdpoll_ptcp.c: In function 'Wait':
+nsdpoll_ptcp.c:234: warning: cast to pointer from integer of different size

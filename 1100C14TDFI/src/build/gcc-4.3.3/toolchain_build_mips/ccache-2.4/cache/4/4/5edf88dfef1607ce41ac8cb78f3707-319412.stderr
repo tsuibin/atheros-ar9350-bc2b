@@ -1,0 +1,7 @@
+execute_cmd.c: In function 'execute_in_subshell':
+execute_cmd.c:1507: warning: passing argument 1 of 'execute_command_internal' discards qualifiers from pointer target type
+execute_cmd.c: In function 'execute_function':
+execute_cmd.c:4244: warning: passing argument 1 of 'array_rshift' discards qualifiers from pointer target type
+execute_cmd.c:4246: warning: passing argument 1 of 'array_rshift' discards qualifiers from pointer target type
+execute_cmd.c:4321: warning: passing argument 1 of 'array_shift' discards qualifiers from pointer target type
+execute_cmd.c:4322: warning: passing argument 1 of 'array_shift' discards qualifiers from pointer target type

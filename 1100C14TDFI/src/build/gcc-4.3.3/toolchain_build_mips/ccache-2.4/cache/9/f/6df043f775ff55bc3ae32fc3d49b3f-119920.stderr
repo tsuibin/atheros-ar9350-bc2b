@@ -1,0 +1,4 @@
+In file included from /home/1100C14TDFI/src/build/../linux/kernels/mips-linux-2.6.31/include/net/netfilter/nf_nat.h:5,
+                 from extensions/libipt_REDIRECT.c:11:
+/home/1100C14TDFI/src/build/../linux/kernels/mips-linux-2.6.31/include/net/netfilter/nf_conntrack_tuple.h: In function '__nf_ct_tuple_src_equal':
+/home/1100C14TDFI/src/build/../linux/kernels/mips-linux-2.6.31/include/net/netfilter/nf_conntrack_tuple.h:159: warning: implicit declaration of function 'nf_inet_addr_cmp'

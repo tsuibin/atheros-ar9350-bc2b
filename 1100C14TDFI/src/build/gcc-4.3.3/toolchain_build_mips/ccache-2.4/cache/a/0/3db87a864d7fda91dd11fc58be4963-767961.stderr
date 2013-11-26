@@ -1,0 +1,5 @@
+drivers/usb/gadget/ath_udc.c: In function 'ath_usb_process_port_change':
+drivers/usb/gadget/ath_udc.c:1439: warning: unused variable 'rddata'
+drivers/usb/gadget/ath_udc.c: At top level:
+drivers/usb/gadget/ath_udc.c:262: warning: 'ath_usb_alloc_buffer' defined but not used
+drivers/usb/gadget/ath_udc.c:277: warning: 'ath_usb_free_buffer' defined but not used

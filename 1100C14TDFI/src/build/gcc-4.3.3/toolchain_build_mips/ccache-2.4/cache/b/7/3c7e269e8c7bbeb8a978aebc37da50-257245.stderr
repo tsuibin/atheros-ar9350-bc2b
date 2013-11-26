@@ -1,0 +1,22 @@
+networking/ifconfig.c: In function 'ifconfig_main':
+networking/ifconfig.c:429: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:435: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:442: warning: assignment from incompatible pointer type
+networking/ifconfig.c:457: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:466: warning: assignment from incompatible pointer type
+networking/ifconfig.c:482: warning: assignment from incompatible pointer type
+networking/ifconfig.c:497: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:505: warning: assignment from incompatible pointer type
+networking/ifconfig.c:519: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:525: warning: assignment from incompatible pointer type
+networking/ifconfig.c:540: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:546: warning: assignment from incompatible pointer type
+networking/ifconfig.c:580: warning: assignment from incompatible pointer type
+networking/ifconfig.c:607: warning: assignment from incompatible pointer type
+networking/ifconfig.c:620: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:624: warning: assignment from incompatible pointer type
+networking/ifconfig.c:649: warning: ISO C90 forbids mixed declarations and code
+networking/ifconfig.c:720: warning: assignment from incompatible pointer type
+networking/ifconfig.c:650: warning: unused variable 'data1'
+networking/ifconfig.c:650: warning: unused variable 'data0'
+networking/ifconfig.c:751: warning: implicit declaration of function 'safe_strtoi'

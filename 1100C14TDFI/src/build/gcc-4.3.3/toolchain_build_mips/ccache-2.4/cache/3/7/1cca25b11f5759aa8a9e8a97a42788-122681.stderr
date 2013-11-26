@@ -1,0 +1,2 @@
+tsftomsu.c: In function 'tsftomsu':
+tsftomsu.c:23: warning: assuming signed overflow does not occur when changing X +- C1 cmp C2 to X cmp C1 +- C2

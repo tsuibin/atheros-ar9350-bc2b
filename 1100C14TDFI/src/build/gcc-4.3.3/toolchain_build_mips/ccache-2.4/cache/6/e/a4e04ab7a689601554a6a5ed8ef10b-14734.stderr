@@ -1,0 +1,2 @@
+conftest.c: In function 'main':
+conftest.c:171: warning: unused variable 'n'

@@ -1,0 +1,2 @@
+../common/ar7240_flash.c: In function 'write_buff':
+../common/ar7240_flash.c:171: warning: suggest parentheses around + or - in operand of &

@@ -1,0 +1,7 @@
+at.c: In function 'setport':
+at.c:24: warning: unused variable 'baudrate'
+at.c: In function 'readport':
+at.c:54: warning: unused variable 'rcnum'
+at.c:54: warning: unused variable 'no'
+at.c: In function 'main':
+at.c:121: warning: comparison between signed and unsigned

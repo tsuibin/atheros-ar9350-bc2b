@@ -1,0 +1,1 @@
+./../lib/isc/inet_pton.c:58: warning: no previous prototype for 'isc_net_pton'

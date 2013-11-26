@@ -1,0 +1,2 @@
+str2hex.c: In function 'main':
+str2hex.c:8: warning: unused parameter 'argc'

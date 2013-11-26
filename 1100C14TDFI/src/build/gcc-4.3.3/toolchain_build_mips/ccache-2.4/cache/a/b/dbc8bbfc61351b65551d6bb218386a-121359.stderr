@@ -1,0 +1,3 @@
+znap_client.c: In function 'send_mag':
+znap_client.c:40: warning: implicit declaration of function 'notice'
+znap_client.c:33: warning: unused variable 'i'

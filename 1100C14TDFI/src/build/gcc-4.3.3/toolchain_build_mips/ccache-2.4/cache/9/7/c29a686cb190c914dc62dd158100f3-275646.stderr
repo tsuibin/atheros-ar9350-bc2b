@@ -1,0 +1,2 @@
+tiny_upnp_wps_device.c: In function 'upnp_wps_device_init':
+tiny_upnp_wps_device.c:5319: warning: passing argument 2 of 'get_uuid_from_mac' discards qualifiers from pointer target type

@@ -1,0 +1,7 @@
+libbb/safe_strncpy.c:30: warning: no previous prototype for 'safe_strtoi'
+libbb/safe_strncpy.c: In function 'safe_strtoi':
+libbb/safe_strncpy.c:34: warning: implicit declaration of function 'safe_strtol'
+libbb/safe_strncpy.c: At top level:
+libbb/safe_strncpy.c:40: warning: no previous prototype for 'safe_strtoul'
+libbb/safe_strncpy.c:55: warning: no previous prototype for 'safe_strtod'
+libbb/safe_strncpy.c:70: warning: no previous prototype for 'safe_strtol'

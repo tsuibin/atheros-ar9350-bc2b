@@ -1,0 +1,2 @@
+main.c: In function 'main_loop':
+main.c:439: warning: pointer targets in passing argument 1 of 'myatoi' differ in signedness

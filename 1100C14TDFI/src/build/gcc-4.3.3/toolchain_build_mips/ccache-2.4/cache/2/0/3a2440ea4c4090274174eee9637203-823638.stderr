@@ -1,0 +1,2 @@
+net/sched/sch_generic.c: In function 'dev_watchdog':
+net/sched/sch_generic.c:244: warning: unused variable 'drivername'

@@ -1,0 +1,3 @@
+sd-daemon.c: In function 'sd_notify':
+sd-daemon.c:327: warning: unused parameter 'unset_environment'
+sd-daemon.c:327: warning: unused parameter 'state'

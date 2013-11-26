@@ -1,0 +1,2 @@
+lte_gpio_control.c: In function 'main':
+lte_gpio_control.c:16: warning: unused parameter 'argc'

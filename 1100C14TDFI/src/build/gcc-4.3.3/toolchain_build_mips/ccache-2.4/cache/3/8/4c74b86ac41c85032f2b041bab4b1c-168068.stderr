@@ -1,0 +1,2 @@
+nssel.c: In function 'IsReady':
+nssel.c:173: warning: unused parameter 'piNumReady'

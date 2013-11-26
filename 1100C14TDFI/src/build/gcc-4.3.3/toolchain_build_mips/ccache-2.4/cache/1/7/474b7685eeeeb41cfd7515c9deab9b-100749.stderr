@@ -1,0 +1,2 @@
+../../../lib/isc/mips/include/isc/atomic.h:56: warning: 'isc_atomic_store' defined but not used
+../../../lib/isc/mips/include/isc/atomic.h:66: warning: 'isc_atomic_cmpxchg' defined but not used

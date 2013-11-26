@@ -1,0 +1,2 @@
+net/sched/wrr.c: In function 'wrr_dump_class_stats':
+net/sched/wrr.c:639: warning: passing argument 2 of 'gnet_stats_copy_basic' from incompatible pointer type

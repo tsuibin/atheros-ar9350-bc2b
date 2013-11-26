@@ -1,0 +1,4 @@
+dolfptoa.c: In function 'dolfptoa':
+dolfptoa.c:60: warning: assuming pointer wraparound does not occur when comparing P +- C1 with P +- C2
+dolfptoa.c:60: warning: assuming pointer wraparound does not occur when comparing P +- C1 with P +- C2
+dolfptoa.c:60: warning: assuming pointer wraparound does not occur when comparing P +- C1 with P +- C2

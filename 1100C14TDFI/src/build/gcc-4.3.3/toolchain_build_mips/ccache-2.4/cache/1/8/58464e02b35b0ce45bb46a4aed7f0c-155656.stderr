@@ -1,0 +1,4 @@
+html-url.c: In function 'tag_handle_meta':
+html-url.c:611: warning: left-hand operand of comma expression has no effect
+html-url.c: At top level:
+html-url.c:835: warning: 'cleanup_html_url' defined but not used

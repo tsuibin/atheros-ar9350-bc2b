@@ -1,0 +1,5 @@
+q_wrr.c: In function 'wrr_parse_opt':
+q_wrr.c:71: warning: pointer targets in passing argument 1 of 'get_size' differ in signedness
+q_wrr.c: In function 'wrr_parse_class_opt':
+q_wrr.c:113: warning: pointer targets in passing argument 1 of 'get_size' differ in signedness
+q_wrr.c:120: warning: pointer targets in passing argument 1 of 'get_size' differ in signedness

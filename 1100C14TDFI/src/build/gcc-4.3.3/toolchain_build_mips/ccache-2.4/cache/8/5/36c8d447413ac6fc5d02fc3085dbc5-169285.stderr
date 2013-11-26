@@ -1,0 +1,2 @@
+ssl_init.c: In function 'keytype_from_text':
+ssl_init.c:64: warning: unused variable 'max_digest_len'

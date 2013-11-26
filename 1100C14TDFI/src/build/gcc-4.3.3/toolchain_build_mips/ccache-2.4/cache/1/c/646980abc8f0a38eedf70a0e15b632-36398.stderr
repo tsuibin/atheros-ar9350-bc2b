@@ -1,0 +1,4 @@
+conftest.c: In function 'main':
+conftest.c:172: warning: the address of 'x' will always evaluate as 'true'
+conftest.c:172: warning: the address of 'y' will always evaluate as 'true'
+conftest.c:172: warning: the address of 'z' will always evaluate as 'true'

@@ -1,0 +1,5 @@
+conftest.c: In function 'main':
+conftest.c:165: warning: cast discards qualifiers from pointer target type
+conftest.c:171: warning: 't' is used uninitialized in this function
+conftest.c:187: warning: 'b' may be used uninitialized in this function
+conftest.c:193: warning: 'cs[0]' is used uninitialized in this function

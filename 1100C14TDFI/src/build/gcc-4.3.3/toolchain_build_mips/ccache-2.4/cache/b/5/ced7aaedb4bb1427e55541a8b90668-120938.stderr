@@ -1,0 +1,5 @@
+znap_server.c: In function 'znap_receive':
+znap_server.c:97: warning: pointer targets in passing argument 3 of 'accept' differ in signedness
+znap_server.c:79: warning: unused variable 'i'
+znap_server.c: At top level:
+znap_server.c:24: warning: 'recv_php_buf' defined but not used

@@ -1,0 +1,4 @@
+conftest.c: In function 'main':
+conftest.c:87: warning: 't' is used uninitialized in this function
+conftest.c:103: warning: 'b' may be used uninitialized in this function
+conftest.c:109: warning: 'cs[0]' is used uninitialized in this function

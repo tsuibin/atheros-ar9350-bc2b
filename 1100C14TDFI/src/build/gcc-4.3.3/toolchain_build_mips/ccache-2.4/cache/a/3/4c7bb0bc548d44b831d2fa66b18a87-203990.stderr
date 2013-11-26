@@ -1,0 +1,2 @@
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar5416/ar5416_eeprom.c: In function 'ar5416FlashMap':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar5416/ar5416_eeprom.c:122: warning: assignment makes pointer from integer without a cast

@@ -1,0 +1,6 @@
+miscutils/ethreg.c:27: warning: no previous prototype for 'regread'
+miscutils/ethreg.c:62: warning: function declaration isn't a prototype
+miscutils/ethreg.c: In function 'usage':
+miscutils/ethreg.c:62: warning: old-style function definition
+miscutils/ethreg.c: At top level:
+miscutils/ethreg.c:69: warning: no previous prototype for 'ethreg_main'

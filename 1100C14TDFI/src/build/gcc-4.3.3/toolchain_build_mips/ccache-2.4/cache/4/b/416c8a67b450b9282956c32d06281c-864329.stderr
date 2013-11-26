@@ -1,0 +1,3 @@
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_attach.c: In function 'ar9300Attach':
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_attach.c:658: warning: incompatible implicit declaration of built-in function 'printf'
+/home/1100C14TDFI/src/apps/art2_ver2_21_wnc9344/art/../wlan/hal/ar9300/ar9300_attach.c:662: warning: incompatible implicit declaration of built-in function 'printf'
